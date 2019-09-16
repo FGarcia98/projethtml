@@ -1,0 +1,44 @@
+.haut{
+    
+    background-color: blue;
+    padding: 50px;
+}
+.cote_haut_droit{
+    float: right;
+    background-color:#80FF00;
+    height: 250px;
+    width: 250px;
+
+}
+.cote-haut{
+    float: left;
+    background-color: red;
+    height:525px;
+    width: 150px;
+    margin-left: 0px;
+
+}
+.cote-bas{
+    float: left;
+    background-color: black;
+    height:525px;
+    width: 150px;
+    margin-top: 525px;
+    margin-left: -150px;
+
+
+}
+.centre{
+    background-color: #ffeb3b;
+    padding: 400px;
+    margin-left: 150px;
+    height: 250px;
+
+}
+.bas{
+    background-color: blueviolet;
+    padding: 50px;
+}
+.cote_haut_droit.p{
+    text-align: center;
+}

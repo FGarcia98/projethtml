@@ -1,0 +1,32 @@
+.haut{
+    
+    background-color: blue;
+    padding: 50px;
+}
+.cote{
+    float: left;
+    background-color: red;
+    height:1050px;
+    width: 150px;
+    margin-left: 0px;
+
+}
+.centre{
+    background-color: #ffeb3b;
+    padding: 400px;
+    margin-left: 150px;
+    height: 250px;
+
+}
+.rouge{
+    text-align: center;
+    color: red;
+}
+.bleu{
+    text-align: center;
+    color: blue;
+}
+.bas{
+    background-color: blueviolet;
+    padding: 50px;
+}
